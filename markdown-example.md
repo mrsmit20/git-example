@@ -36,4 +36,6 @@ The actual numbering doesn't matter:
 
 > Block quote.
 
+Advised to make some changes and add some new text, suppose I should make it **bold** or something like that.
+
 ----
